@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jotahe currently working in interesting projects
 - 👀 I’m interested in AWS GCP Github Actions Terraform
-- 🌱 I’m currently learning kubernetes and google cloud
+- 🌱 I’m currently mastering kubernetes and Terraform
 - 💞️ I’m looking to collaborate on any project related to AWS, CICD, Terraform and Kubernetes
 - 📫 How to reach me ...
 
